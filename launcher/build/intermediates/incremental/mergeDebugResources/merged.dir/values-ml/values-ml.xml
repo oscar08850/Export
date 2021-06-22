@@ -86,5 +86,5 @@
     <string name="mtrl_picker_toggle_to_year_selection">വർഷം തിരഞ്ഞെടുക്കുന്നതിലേക്ക് മാറാൻ ടാപ്പ് ചെയ്യുക</string>
     <string name="password_toggle_content_description">പാസ്‌വേഡ് കാണിക്കുക</string>
     <string msgid="6264217191555673260" name="search_menu_title">"Search"</string>
-    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

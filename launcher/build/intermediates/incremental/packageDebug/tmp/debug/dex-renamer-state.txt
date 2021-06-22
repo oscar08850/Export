@@ -1,4 +1,4 @@
-#Mon Jun 21 20:48:51 CEST 2021
-base.0=C\:\\Users\\SOBREMESA\\Desktop\\Archer UNITY\\Export4\\launcher\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+#Tue Jun 22 12:14:48 CEST 2021
+base.0=/Users/juan/Export/launcher/build/intermediates/transforms/dexMerger/debug/0
 renamed.0=classes.dex
 path.0=classes.dex

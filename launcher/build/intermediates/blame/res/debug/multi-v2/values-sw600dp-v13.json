@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\SOBREMESA\\Desktop\\Archer UNITY\\Export4\\launcher\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "outputFile": "/Users/juan/Export/launcher/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\SOBREMESA\\.gradle\\caches\\transforms-2\\files-2.1\\23ba8a0358c63cbec9d20af76f0c2dae\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "/Users/juan/.gradle/caches/transforms-2/files-2.1/e4b76532b1f94c36922306dff34f7abf/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,10,11,12,13,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\SOBREMESA\\.gradle\\caches\\transforms-2\\files-2.1\\bf261285d120e09e9483d3339960deea\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "/Users/juan/.gradle/caches/transforms-2/files-2.1/8f59b3a2398127b6b76ef96fb83845a3/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

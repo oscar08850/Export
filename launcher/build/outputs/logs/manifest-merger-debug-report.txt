@@ -1,245 +1,378 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:2:1-29:12
-MERGED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:3:1-63:12
-MERGED from [com.android.support.constraint:constraint-layout:2.0.1] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\010f179a29ddacf06266e97381b3d9ba\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\c6769954a8869a9680b867ebe2baec27\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\f15adefb287db45bb3d8fb454abc58cc\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\b631e1a2a65724839644d19aa541e265\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\dee0d630f7958b5fed6ea21d16b94f23\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\f6640ec187bc33196d3513dfb7deb651\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\2cd9cea89663144a00e6256d1c951795\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:loader:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\ba02229f77efd0a87d22f1585bc57c4d\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\24a6d497f3cdad89fa33e0d63ea7b6a6\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\4b8bb858376a886679fa4e36f8ac542d\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\75b4e9b095b30ad340cdd38961cf60d4\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\805364c72d5f12ef108468aa6db4a090\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:customview:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\a16753cfc5b4a4b119694699d0672625\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\f0b12abf14f3b3788e325392c2901d0e\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\2c608aa87e338e4f3942d6def7be287f\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\2d61d2f1e9398b3c78108a82447db052\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\c9b54de21eee88ad5385bd1023de972c\AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\81273de0bf6600e0aaa04311fd66070b\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\59491213b0f6015b56f613e6d5b0d605\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\7f118990266d1fc680e101a710d828b4\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\ead00ed476607ea9f3a497bf749459ed\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:print:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\3ea97aaf879fd605c286a34333b0f6b1\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\f55274c326b7bb9874c49441d5deab64\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\56c4e263dfef15e130807099bea902c0\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\1facd3cf8e8179b1acfddc2c73ec38e3\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\2efd714ec8f3377a2fda48a5c3301ffa\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\88e9708dd2023a900a0f57311978f03a\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:2:1-29:12
+ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:2:1-82:12
+INJECTED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:2:1-82:12
+INJECTED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:2:1-82:12
+INJECTED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:2:1-82:12
+MERGED from [:unityLibrary] /Users/juan/Export/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:3:1-63:12
+MERGED from [com.google.android.material:material:1.3.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/e4b76532b1f94c36922306dff34f7abf/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/juan/.gradle/caches/transforms-2/files-2.1/6ed7cf12afa5bb7ef6d71aebd1aa2342/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/f1ee1f87635889eb4451c72c908db99f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/8f59b3a2398127b6b76ef96fb83845a3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/3adae97bb8b8df562928d0a592afd4b1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/juan/.gradle/caches/transforms-2/files-2.1/454089773785c61acd599a6b7b40dc1b/AndroidManifest.xml:17:1-24:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/juan/.gradle/caches/transforms-2/files-2.1/9d8bb6ea745aa96a781aca33aa3fbda6/AndroidManifest.xml:15:1-21:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/cc3e37e153472fa979729e03513d6085/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.gridlayout:gridlayout:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/67148cf3b5eeffdb7bc379dfecda6d7a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/juan/.gradle/caches/transforms-2/files-2.1/89f37a4648f47549f931ceb866f3a950/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] /Users/juan/.gradle/caches/transforms-2/files-2.1/b238a670023af0797f60e6de9834d555/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/fbfe5ebf39dae39cd82e6a06a7a50606/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/381d4ce677f402e431099e34032116cf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/51d70d131dfdca56cb88eeede3521ce2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/694bcfbf866b33359eb62fdef7bc36ee/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/00c59db8f9372ed0b243f937e1804bf2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/022f9213ae512f4fcbfd2cf468712a4e/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/654ec1f96305c58da548ce76b5fe3562/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/35f0ade4e72d6f14682e9d5cac142c80/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/4fb95069a9f5ec1d55d29520db94f080/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/1418aced030de2cba726f02d6147a60d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/7880a85b149389694dfe22dd112ee560/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/988354da2364715847e809b6d74a4d31/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/a9189127e357c964915926f195b95b2f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/fa20cd9ad7914c8eb55afbbb70ebf104/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/6f252b87140dce16382d7833dcd6da7f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/0e3a8e695178e4a988c168d9c46f238f/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/d433cf90d4b26322f9700ba70ca316c0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/juan/.gradle/caches/transforms-2/files-2.1/22e35a1b6e581527e06aee79204741d3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/649fe7f711a811e9a6f43dfd83e986c2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/juan/.gradle/caches/transforms-2/files-2.1/d7b741e6c36cc82d4459b990780be8ee/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/juan/.gradle/caches/transforms-2/files-2.1/a46baa55962994e2f15b6f7127830d4f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/6f01815dded9220686b4982b979ba125/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/003c7bc3b9326951ba203f279e8bfc32/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/juan/.gradle/caches/transforms-2/files-2.1/18696f4eb3c618a70dff0675e0897990/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/190efc764597346a77d82882b385817b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/7365ce5ec98c4c7b47c83e62243f2999/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/juan/.gradle/caches/transforms-2/files-2.1/8587d808303bad12b47849fe01934ee1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/211fdc6baee636aa945968e7cd4655a6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/e6a1e53d07ff401a25c0d3b91bb24269/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/b2ca5e42d170ec3d50479ea73e056685/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/f9b9fb45faed6263a37145b9da40596a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/4f13d5486655f70c8f8a8bd6923a82fe/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/e2a07267660e4ef32f6e19ebc464e66a/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:2:1-82:12
+INJECTED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:2:1-82:12
+INJECTED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:2:1-82:12
 	package
-		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:4:5-40
-		INJECTED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml
+		ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:4:5-43
+		INJECTED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml
-		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:2:1-29:12
-		INJECTED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml
+		INJECTED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:2:1-82:12
+		INJECTED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml
 	xmlns:tools
-		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:3:5-51
+		ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml
-		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:2:1-29:12
-		INJECTED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml
+		INJECTED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:2:1-82:12
+		INJECTED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:2:11-69
+		ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:2:11-69
 	android:installLocation
-		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:5:5-45
+		ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:5:5-45
 supports-screens
-ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:7:5-12:40
+ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:7:5-12:40
 	android:largeScreens
-		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:9:9-36
+		ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:9:9-36
 	android:smallScreens
-		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:11:9-36
+		ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:11:9-36
 	android:normalScreens
-		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:10:9-37
+		ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:10:9-37
 	android:xlargeScreens
-		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:12:9-37
+		ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:12:9-37
 	android:anyDensity
-		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:8:9-34
+		ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:8:9-34
 application
-ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:14:5-27:19
-MERGED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:5-61:19
-MERGED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:5-61:19
-MERGED from [com.android.support.constraint:constraint-layout:2.0.1] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\010f179a29ddacf06266e97381b3d9ba\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:2.0.1] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\010f179a29ddacf06266e97381b3d9ba\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\2d61d2f1e9398b3c78108a82447db052\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\2d61d2f1e9398b3c78108a82447db052\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\c9b54de21eee88ad5385bd1023de972c\AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\c9b54de21eee88ad5385bd1023de972c\AndroidManifest.xml:22:5-23:19
+ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:14:5-80:19
+MERGED from [:unityLibrary] /Users/juan/Export/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:5-61:19
+MERGED from [:unityLibrary] /Users/juan/Export/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:5-61:19
+MERGED from [com.google.android.material:material:1.3.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/e4b76532b1f94c36922306dff34f7abf/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/e4b76532b1f94c36922306dff34f7abf/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/juan/.gradle/caches/transforms-2/files-2.1/6ed7cf12afa5bb7ef6d71aebd1aa2342/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/juan/.gradle/caches/transforms-2/files-2.1/6ed7cf12afa5bb7ef6d71aebd1aa2342/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/cc3e37e153472fa979729e03513d6085/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/cc3e37e153472fa979729e03513d6085/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.5.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/0e3a8e695178e4a988c168d9c46f238f/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/0e3a8e695178e4a988c168d9c46f238f/AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/6f01815dded9220686b4982b979ba125/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/6f01815dded9220686b4982b979ba125/AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/juan/.gradle/caches/transforms-2/files-2.1/18696f4eb3c618a70dff0675e0897990/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/juan/.gradle/caches/transforms-2/files-2.1/18696f4eb3c618a70dff0675e0897990/AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\2d61d2f1e9398b3c78108a82447db052\AndroidManifest.xml:22:18-91
+		ADDED from [androidx.core:core:1.5.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/0e3a8e695178e4a988c168d9c46f238f/AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:16:9-41
+		ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:16:9-41
 	android:icon
-		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:15:9-40
+		ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:15:9-40
 activity#com.DefaultCompany.Archer.MainActivity
-ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:17:9-26:20
+ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:19:9-28:20
 	android:name
-		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:17:19-47
+		ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:19:19-72
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:20:13-23:29
+ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:22:13-25:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:21:17-69
+ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:23:17-69
 	android:name
-		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:21:25-66
+		ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:23:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:22:17-77
+ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:24:17-77
 	android:name
-		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml:22:27-74
-uses-sdk
-INJECTED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml
-INJECTED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml
-MERGED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-11:41
-MERGED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-11:41
-MERGED from [com.android.support.constraint:constraint-layout:2.0.1] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\010f179a29ddacf06266e97381b3d9ba\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:2.0.1] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\010f179a29ddacf06266e97381b3d9ba\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\c6769954a8869a9680b867ebe2baec27\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\c6769954a8869a9680b867ebe2baec27\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\f15adefb287db45bb3d8fb454abc58cc\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\f15adefb287db45bb3d8fb454abc58cc\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\b631e1a2a65724839644d19aa541e265\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\b631e1a2a65724839644d19aa541e265\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\dee0d630f7958b5fed6ea21d16b94f23\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\dee0d630f7958b5fed6ea21d16b94f23\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\f6640ec187bc33196d3513dfb7deb651\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\f6640ec187bc33196d3513dfb7deb651\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\2cd9cea89663144a00e6256d1c951795\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\2cd9cea89663144a00e6256d1c951795\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\ba02229f77efd0a87d22f1585bc57c4d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\ba02229f77efd0a87d22f1585bc57c4d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\24a6d497f3cdad89fa33e0d63ea7b6a6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\24a6d497f3cdad89fa33e0d63ea7b6a6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\4b8bb858376a886679fa4e36f8ac542d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\4b8bb858376a886679fa4e36f8ac542d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\75b4e9b095b30ad340cdd38961cf60d4\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\75b4e9b095b30ad340cdd38961cf60d4\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\805364c72d5f12ef108468aa6db4a090\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\805364c72d5f12ef108468aa6db4a090\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\a16753cfc5b4a4b119694699d0672625\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\a16753cfc5b4a4b119694699d0672625\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\f0b12abf14f3b3788e325392c2901d0e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\f0b12abf14f3b3788e325392c2901d0e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\2c608aa87e338e4f3942d6def7be287f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\2c608aa87e338e4f3942d6def7be287f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\2d61d2f1e9398b3c78108a82447db052\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\2d61d2f1e9398b3c78108a82447db052\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\c9b54de21eee88ad5385bd1023de972c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\c9b54de21eee88ad5385bd1023de972c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\81273de0bf6600e0aaa04311fd66070b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\81273de0bf6600e0aaa04311fd66070b\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\59491213b0f6015b56f613e6d5b0d605\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\59491213b0f6015b56f613e6d5b0d605\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\7f118990266d1fc680e101a710d828b4\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\7f118990266d1fc680e101a710d828b4\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\ead00ed476607ea9f3a497bf749459ed\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\ead00ed476607ea9f3a497bf749459ed\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\3ea97aaf879fd605c286a34333b0f6b1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\3ea97aaf879fd605c286a34333b0f6b1\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\f55274c326b7bb9874c49441d5deab64\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\f55274c326b7bb9874c49441d5deab64\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\56c4e263dfef15e130807099bea902c0\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\56c4e263dfef15e130807099bea902c0\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\1facd3cf8e8179b1acfddc2c73ec38e3\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\1facd3cf8e8179b1acfddc2c73ec38e3\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\2efd714ec8f3377a2fda48a5c3301ffa\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\2efd714ec8f3377a2fda48a5c3301ffa\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\88e9708dd2023a900a0f57311978f03a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\SOBREMESA\.gradle\caches\transforms-2\files-2.1\88e9708dd2023a900a0f57311978f03a\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml
-INJECTED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml
-	android:targetSdkVersion
-		INJECTED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml
-		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml
-	android:minSdkVersion
-		INJECTED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml
-		ADDED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\launcher\src\main\AndroidManifest.xml
-uses-feature#0x00030000
-ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-54
-	android:glEsVersion
-		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:19-51
-uses-feature#android.hardware.vulkan.version
-ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-16:36
-	android:required
-		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:9-33
+		ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:24:27-74
+activity#com.upc.eetac.dsa.androidapp.DetalleObjetoActivity
+ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:31:9-34:20
 	android:name
-		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:9-55
-uses-feature#android.hardware.touchscreen
-ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-19:36
-	android:required
-		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:9-33
+		ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:31:19-56
+activity#com.upc.eetac.dsa.androidapp.MenuRecordsActivity
+ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:35:9-57
 	android:name
-		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:9-52
-uses-feature#android.hardware.touchscreen.multitouch
-ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:5-22:36
-	android:required
-		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:9-33
+		ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:35:19-54
+activity#com.upc.eetac.dsa.androidapp.MenuEditarActivity
+ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:36:9-56
 	android:name
-		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:9-63
-uses-feature#android.hardware.touchscreen.multitouch.distinct
-ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:5-25:36
-	android:required
-		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:9-33
+		ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:36:19-53
+activity#com.upc.eetac.dsa.androidapp.IndividualRecordsActivity
+ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:37:9-63
 	android:name
-		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:9-72
-activity#com.unity3d.player.UnityPlayerActivity
-ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:28:9-47:20
+		ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:37:19-60
+activity#com.upc.eetac.dsa.androidapp.EliminarActivity
+ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:38:9-54
+	android:name
+		ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:38:19-51
+activity#com.upc.eetac.dsa.androidapp.GlobalRecordsActivity
+ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:39:9-59
+	android:name
+		ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:39:19-56
+activity#com.upc.eetac.dsa.androidapp.InventarioActivity
+ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:40:9-56
+	android:name
+		ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:40:19-53
+activity#com.upc.eetac.dsa.androidapp.TiendaActivity
+ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:43:9-52
+	android:name
+		ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:43:19-49
+activity#com.upc.eetac.dsa.androidapp.EstadisticasActivity
+ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:44:9-58
+	android:name
+		ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:44:19-55
+activity#com.upc.eetac.dsa.androidapp.RegisterActivity
+ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:45:9-47:54
 	android:screenOrientation
-		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:33:13-51
-	android:launchMode
-		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:32:13-44
-	android:hardwareAccelerated
-		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:31:13-48
-	android:configChanges
-		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:13-194
+		ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:47:13-51
+	android:name
+		ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:46:13-45
+activity#com.upc.eetac.dsa.androidapp.PrincipalActivity
+ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:48:9-57:20
+	android:screenOrientation
+		ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:50:13-51
+	android:name
+		ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:49:13-46
+intent-filter#action:name:package.com.upc.eetac.dsa.androidapp.LogInActivity+category:name:android.intent.category.DEFAULT
+ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:51:13-56:29
+action#package.com.upc.eetac.dsa.androidapp.LogInActivity
+ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:53:17-93
+	android:name
+		ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:53:25-90
+category#android.intent.category.DEFAULT
+ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:55:17-76
+	android:name
+		ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:55:27-73
+activity#com.upc.eetac.dsa.androidapp.EditarActivity
+ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:61:9-63:54
+	android:screenOrientation
+		ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:63:13-51
+	android:name
+		ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:62:13-43
+activity#com.upc.eetac.dsa.androidapp.ConsultarActivity
+ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:64:9-66:54
+	android:screenOrientation
+		ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:66:13-51
+	android:name
+		ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:65:13-46
+activity#com.upc.eetac.dsa.androidapp.LogInActivity
+ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:67:9-79:20
 	android:theme
-		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:34:13-54
+		ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:69:13-47
 	android:name
-		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:29:13-66
+		ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml:68:13-42
+uses-sdk
+INJECTED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml
+INJECTED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml
+MERGED from [:unityLibrary] /Users/juan/Export/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-11:41
+MERGED from [:unityLibrary] /Users/juan/Export/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-11:41
+MERGED from [com.google.android.material:material:1.3.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/e4b76532b1f94c36922306dff34f7abf/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/e4b76532b1f94c36922306dff34f7abf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/juan/.gradle/caches/transforms-2/files-2.1/6ed7cf12afa5bb7ef6d71aebd1aa2342/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/juan/.gradle/caches/transforms-2/files-2.1/6ed7cf12afa5bb7ef6d71aebd1aa2342/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/f1ee1f87635889eb4451c72c908db99f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/f1ee1f87635889eb4451c72c908db99f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/8f59b3a2398127b6b76ef96fb83845a3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/8f59b3a2398127b6b76ef96fb83845a3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/3adae97bb8b8df562928d0a592afd4b1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/3adae97bb8b8df562928d0a592afd4b1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/juan/.gradle/caches/transforms-2/files-2.1/454089773785c61acd599a6b7b40dc1b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/juan/.gradle/caches/transforms-2/files-2.1/454089773785c61acd599a6b7b40dc1b/AndroidManifest.xml:20:5-22:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/juan/.gradle/caches/transforms-2/files-2.1/9d8bb6ea745aa96a781aca33aa3fbda6/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/juan/.gradle/caches/transforms-2/files-2.1/9d8bb6ea745aa96a781aca33aa3fbda6/AndroidManifest.xml:19:5-43
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/cc3e37e153472fa979729e03513d6085/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/cc3e37e153472fa979729e03513d6085/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.gridlayout:gridlayout:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/67148cf3b5eeffdb7bc379dfecda6d7a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.gridlayout:gridlayout:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/67148cf3b5eeffdb7bc379dfecda6d7a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/juan/.gradle/caches/transforms-2/files-2.1/89f37a4648f47549f931ceb866f3a950/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/juan/.gradle/caches/transforms-2/files-2.1/89f37a4648f47549f931ceb866f3a950/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /Users/juan/.gradle/caches/transforms-2/files-2.1/b238a670023af0797f60e6de9834d555/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /Users/juan/.gradle/caches/transforms-2/files-2.1/b238a670023af0797f60e6de9834d555/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/fbfe5ebf39dae39cd82e6a06a7a50606/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/fbfe5ebf39dae39cd82e6a06a7a50606/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/381d4ce677f402e431099e34032116cf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/381d4ce677f402e431099e34032116cf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/51d70d131dfdca56cb88eeede3521ce2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/51d70d131dfdca56cb88eeede3521ce2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/694bcfbf866b33359eb62fdef7bc36ee/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/694bcfbf866b33359eb62fdef7bc36ee/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/00c59db8f9372ed0b243f937e1804bf2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/00c59db8f9372ed0b243f937e1804bf2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/022f9213ae512f4fcbfd2cf468712a4e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/022f9213ae512f4fcbfd2cf468712a4e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/654ec1f96305c58da548ce76b5fe3562/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/654ec1f96305c58da548ce76b5fe3562/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/35f0ade4e72d6f14682e9d5cac142c80/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/35f0ade4e72d6f14682e9d5cac142c80/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/4fb95069a9f5ec1d55d29520db94f080/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/4fb95069a9f5ec1d55d29520db94f080/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/1418aced030de2cba726f02d6147a60d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/1418aced030de2cba726f02d6147a60d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/7880a85b149389694dfe22dd112ee560/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/7880a85b149389694dfe22dd112ee560/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/988354da2364715847e809b6d74a4d31/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/988354da2364715847e809b6d74a4d31/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/a9189127e357c964915926f195b95b2f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/a9189127e357c964915926f195b95b2f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/fa20cd9ad7914c8eb55afbbb70ebf104/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/fa20cd9ad7914c8eb55afbbb70ebf104/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/6f252b87140dce16382d7833dcd6da7f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/6f252b87140dce16382d7833dcd6da7f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/0e3a8e695178e4a988c168d9c46f238f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/0e3a8e695178e4a988c168d9c46f238f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/d433cf90d4b26322f9700ba70ca316c0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/d433cf90d4b26322f9700ba70ca316c0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/juan/.gradle/caches/transforms-2/files-2.1/22e35a1b6e581527e06aee79204741d3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/juan/.gradle/caches/transforms-2/files-2.1/22e35a1b6e581527e06aee79204741d3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/649fe7f711a811e9a6f43dfd83e986c2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/649fe7f711a811e9a6f43dfd83e986c2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/juan/.gradle/caches/transforms-2/files-2.1/d7b741e6c36cc82d4459b990780be8ee/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/juan/.gradle/caches/transforms-2/files-2.1/d7b741e6c36cc82d4459b990780be8ee/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/juan/.gradle/caches/transforms-2/files-2.1/a46baa55962994e2f15b6f7127830d4f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/juan/.gradle/caches/transforms-2/files-2.1/a46baa55962994e2f15b6f7127830d4f/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/6f01815dded9220686b4982b979ba125/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/6f01815dded9220686b4982b979ba125/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/003c7bc3b9326951ba203f279e8bfc32/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/003c7bc3b9326951ba203f279e8bfc32/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/juan/.gradle/caches/transforms-2/files-2.1/18696f4eb3c618a70dff0675e0897990/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/juan/.gradle/caches/transforms-2/files-2.1/18696f4eb3c618a70dff0675e0897990/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/190efc764597346a77d82882b385817b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/190efc764597346a77d82882b385817b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/7365ce5ec98c4c7b47c83e62243f2999/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/7365ce5ec98c4c7b47c83e62243f2999/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/juan/.gradle/caches/transforms-2/files-2.1/8587d808303bad12b47849fe01934ee1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/juan/.gradle/caches/transforms-2/files-2.1/8587d808303bad12b47849fe01934ee1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/211fdc6baee636aa945968e7cd4655a6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/211fdc6baee636aa945968e7cd4655a6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/e6a1e53d07ff401a25c0d3b91bb24269/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/e6a1e53d07ff401a25c0d3b91bb24269/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/b2ca5e42d170ec3d50479ea73e056685/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/b2ca5e42d170ec3d50479ea73e056685/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/f9b9fb45faed6263a37145b9da40596a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/f9b9fb45faed6263a37145b9da40596a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/4f13d5486655f70c8f8a8bd6923a82fe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/4f13d5486655f70c8f8a8bd6923a82fe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/e2a07267660e4ef32f6e19ebc464e66a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/juan/.gradle/caches/transforms-2/files-2.1/e2a07267660e4ef32f6e19ebc464e66a/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml
+INJECTED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/juan/Export/launcher/src/main/AndroidManifest.xml
+uses-feature#0x00030000
+ADDED from [:unityLibrary] /Users/juan/Export/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] /Users/juan/Export/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:19-51
+uses-feature#android.hardware.vulkan.version
+ADDED from [:unityLibrary] /Users/juan/Export/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [:unityLibrary] /Users/juan/Export/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/juan/Export/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:9-55
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] /Users/juan/Export/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-19:36
+	android:required
+		ADDED from [:unityLibrary] /Users/juan/Export/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/juan/Export/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] /Users/juan/Export/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-22:36
+	android:required
+		ADDED from [:unityLibrary] /Users/juan/Export/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/juan/Export/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] /Users/juan/Export/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:5-25:36
+	android:required
+		ADDED from [:unityLibrary] /Users/juan/Export/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/juan/Export/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:9-72
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] /Users/juan/Export/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:9-47:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] /Users/juan/Export/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:33:13-51
+	android:launchMode
+		ADDED from [:unityLibrary] /Users/juan/Export/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:32:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] /Users/juan/Export/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:31:13-48
+	android:configChanges
+		ADDED from [:unityLibrary] /Users/juan/Export/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:13-194
+	android:theme
+		ADDED from [:unityLibrary] /Users/juan/Export/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:34:13-54
+	android:name
+		ADDED from [:unityLibrary] /Users/juan/Export/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:13-66
 meta-data#unityplayer.UnityActivity
-ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:41:13-43:40
+ADDED from [:unityLibrary] /Users/juan/Export/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:41:13-43:40
 	android:value
-		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:43:17-37
+		ADDED from [:unityLibrary] /Users/juan/Export/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:43:17-37
 	android:name
-		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:42:17-57
+		ADDED from [:unityLibrary] /Users/juan/Export/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:42:17-57
 meta-data#android.notch_support
-ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:44:13-46:40
+ADDED from [:unityLibrary] /Users/juan/Export/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:44:13-46:40
 	android:value
-		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:46:17-37
+		ADDED from [:unityLibrary] /Users/juan/Export/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:46:17-37
 	android:name
-		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:45:17-53
+		ADDED from [:unityLibrary] /Users/juan/Export/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:45:17-53
 meta-data#unity.splash-mode
-ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:49:9-51:33
+ADDED from [:unityLibrary] /Users/juan/Export/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:49:9-51:33
 	android:value
-		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:51:13-30
+		ADDED from [:unityLibrary] /Users/juan/Export/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:51:13-30
 	android:name
-		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:50:13-45
+		ADDED from [:unityLibrary] /Users/juan/Export/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:50:13-45
 meta-data#unity.splash-enable
-ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:52:9-54:36
+ADDED from [:unityLibrary] /Users/juan/Export/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:52:9-54:36
 	android:value
-		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:54:13-33
+		ADDED from [:unityLibrary] /Users/juan/Export/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:54:13-33
 	android:name
-		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:53:13-47
+		ADDED from [:unityLibrary] /Users/juan/Export/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:53:13-47
 meta-data#notch.config
-ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:55:9-57:50
+ADDED from [:unityLibrary] /Users/juan/Export/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:55:9-57:50
 	android:value
-		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:57:13-47
+		ADDED from [:unityLibrary] /Users/juan/Export/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:57:13-47
 	android:name
-		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:56:13-40
+		ADDED from [:unityLibrary] /Users/juan/Export/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:56:13-40
 meta-data#unity.build-id
-ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:58:9-60:68
+ADDED from [:unityLibrary] /Users/juan/Export/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:58:9-60:68
 	android:value
-		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:60:13-65
+		ADDED from [:unityLibrary] /Users/juan/Export/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:60:13-65
 	android:name
-		ADDED from [:unityLibrary] C:\Users\SOBREMESA\Desktop\Archer UNITY\Export4\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:59:13-42
+		ADDED from [:unityLibrary] /Users/juan/Export/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:59:13-42

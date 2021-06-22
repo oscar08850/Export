@@ -86,5 +86,5 @@
     <string name="mtrl_picker_toggle_to_year_selection">Tap to switch to selecting a year</string>
     <string name="password_toggle_content_description">পাছৱৰ্ড দেখুৱাওক</string>
     <string msgid="6264217191555673260" name="search_menu_title">"Search"</string>
-    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"৯৯৯+"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"৯৯৯+"</string>
 </resources>

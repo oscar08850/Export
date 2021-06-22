@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\SOBREMESA\\Desktop\\Archer UNITY\\Export4\\launcher\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "outputFile": "/Users/juan/Export/launcher/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\SOBREMESA\\.gradle\\caches\\transforms-2\\files-2.1\\bf261285d120e09e9483d3339960deea\\res\\values-v16\\values-v16.xml",
+                    "source": "/Users/juan/.gradle/caches/transforms-2/files-2.1/8f59b3a2398127b6b76ef96fb83845a3/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\SOBREMESA\\.gradle\\caches\\transforms-2\\files-2.1\\2d61d2f1e9398b3c78108a82447db052\\res\\values-v16\\values-v16.xml",
+                    "source": "/Users/juan/.gradle/caches/transforms-2/files-2.1/0e3a8e695178e4a988c168d9c46f238f/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

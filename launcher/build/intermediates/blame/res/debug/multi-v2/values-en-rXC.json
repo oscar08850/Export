@@ -1,27 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\SOBREMESA\\Desktop\\Archer UNITY\\Export4\\launcher\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rXC\\values-en-rXC.xml",
+            "outputFile": "/Users/juan/Export/launcher/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rXC/values-en-rXC.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\SOBREMESA\\.gradle\\caches\\transforms-2\\files-2.1\\2d61d2f1e9398b3c78108a82447db052\\res\\values-en-rXC\\values-en-rXC.xml",
+                    "source": "/Users/juan/.gradle/caches/transforms-2/files-2.1/0e3a8e695178e4a988c168d9c46f238f/res/values-en-rXC/values-en-rXC.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "55",
-                        "endColumns": "202",
-                        "endOffsets": "253"
+                        "endColumns": "203",
+                        "endOffsets": "254"
                     },
                     "to": {
                         "startLines": "30",
                         "startColumns": "4",
                         "startOffsets": "5714",
-                        "endColumns": "202",
-                        "endOffsets": "5912"
+                        "endColumns": "203",
+                        "endOffsets": "5913"
                     }
                 },
                 {
-                    "source": "C:\\Users\\SOBREMESA\\.gradle\\caches\\transforms-2\\files-2.1\\bf261285d120e09e9483d3339960deea\\res\\values-en-rXC\\values-en-rXC.xml",
+                    "source": "/Users/juan/.gradle/caches/transforms-2/files-2.1/8f59b3a2398127b6b76ef96fb83845a3/res/values-en-rXC/values-en-rXC.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

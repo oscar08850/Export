@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\SOBREMESA\\Desktop\\Archer UNITY\\Export4\\launcher\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v21\\values-watch-v21.xml",
+            "outputFile": "/Users/juan/Export/launcher/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v21/values-watch-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\SOBREMESA\\.gradle\\caches\\transforms-2\\files-2.1\\bf261285d120e09e9483d3339960deea\\res\\values-watch-v21\\values-watch-v21.xml",
+                    "source": "/Users/juan/.gradle/caches/transforms-2/files-2.1/8f59b3a2398127b6b76ef96fb83845a3/res/values-watch-v21/values-watch-v21.xml",
                     "from": {
                         "startLines": "2,6,10",
                         "startColumns": "4,4,4",
